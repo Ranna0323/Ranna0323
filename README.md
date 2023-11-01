@@ -33,4 +33,4 @@ My main skills are HTML, CSS, JavaScript, Vue.js and TypeScript.
 
 <!--
 ![Juran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranna0323&show_icons=true&theme=buefy) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranna0323&layout=compact&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranna0323&layout=compact&theme=buefy)
