@@ -1,5 +1,7 @@
 <div align='center'>
-	### 🚀 About Me
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+	
+### 🚀 About Me
   - 안녕하세요! 프론트엔드 개발자 김주란입니다.
   - 모르는 것을 빠르게 질문하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
   
@@ -8,7 +10,7 @@
   <a href="https://ranna.tistory.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&amp;logo=tistory&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="mailto:jran0323@gmail.com"><img src="https://img.shields.io/badge/jran0323@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
   
-  ### 💪 Skills
+  ### 💪 Tech Stack
   <a target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" style="max-width: 100%;"></a>
   <a target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=white" style="max-width: 100%;"></a>
