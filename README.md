@@ -27,6 +27,6 @@
 <a target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/bitbucket-0052CC?style=flat-square&amp;logo=bitbucket&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/webstorm-000000?style=flat-square&amp;logo=webstorm&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<!--
-![Juran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranna0323&show_icons=true&theme=buefy) -->
+
+![Juran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranna0323&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranna0323&layout=compact&theme=buefy)
