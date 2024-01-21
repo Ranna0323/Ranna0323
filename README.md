@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Juran%Kim&fontSize=90" />
 	
 ### 🚀 About Me
-안녕하세요! 프론트엔드 개발자 김주란입니다.
+안녕하세요! 백엔드 개발자 김주란입니다.
 
 모르는 것을 빠르게 질문하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
   
